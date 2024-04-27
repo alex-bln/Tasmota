@@ -17,8 +17,8 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#ifndef _MY_USER_CONFIG_H_
-#define _MY_USER_CONFIG_H_
+#ifndef _MY_Alex_CONFIG_H_
+#define _MY_Alex_CONFIG_H_
 
 /*********************************************************************************************\
  * This file consists of TWO sections.
